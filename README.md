@@ -1,7 +1,5 @@
 # Real-Time-Tree-Enumeration-and-Path-Optimisation
 
-# Land Cover Segmentation and Pathfinding System
-
 ## 📌 Overview
 This project consists of **two main components**:
 
